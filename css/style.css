@@ -38,7 +38,7 @@ img {
 /**************Navigation Start**************/
 nav ul{
     list-style-type: none;
-    margin-left: 33%;
+    padding-left: 33%;
     overflow: hidden;
 }
 
